@@ -18,27 +18,32 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>김재현</b></td>
-    <td align="center" width="140"><b>이홍규</b></td>
-    <td align="center" width="140"><b>전진환</b></td>
-    <td align="center" width="140"><b>정예린</b></td>
-    <td align="center" width="140"><b>황수빈</b></td>
+    <td align="center" width="140"><b>김재현</b><br><sub>LLM / RAG</sub></td>
+    <td align="center" width="140"><b>이홍규</b><br><sub>LLM / RAG · Collaboration</sub></td>
+    <td align="center" width="140"><b>전진환</b><br><sub>Backend / Integration</sub></td>
+    <td align="center" width="140"><b>정예린</b><br><sub>DB / Data</sub></td>
+    <td align="center" width="140"><b>황수빈</b><br><sub>Frontend / UI·UX</sub></td>
   </tr>
 </table>
 
-> 팀원 GitHub 계정과 프로젝트 역할은 Organization 초대 및 역할 확정 후 연결합니다.
+> 현재 표기는 2026-09-02 회의에서 정한 **초기 역할** 기준이며, 기능별 세부 책임은 설계 이후 조정될 수 있습니다.
 
 ---
 
-## 📂 Project History
+## 🚀 Current Project
 
-### 🚧 SKN34 3rd Project — 주제 선정 중
+### SKN34 3rd Project — 나라장터 변경공고 대응형 입찰 제출 검증기
 
-> **LLM + RAG 기반 팀 프로젝트**
+> **LLM + RAG 기반 공공조달 문서 검증 프로젝트**
 
-기술 구현뿐 아니라 Jira, Figma, GitHub, Notion을 연결해 실제 팀 개발 프로세스를 경험하고 기록하는 것을 목표로 합니다.
+원공고를 기준으로 준비한 자격판정·필수서류·제출 준비 상태가 변경공고 이후에도 유효한지 다시 확인하고, 변경된 조건과 원문 근거를 바탕으로 영향을 받은 항목을 재검증하는 시스템을 만들고 있습니다.
 
-프로젝트 주제가 확정되면 Repository, 서비스 소개, 핵심 기술과 Demo를 이곳에 연결합니다.
+**Current Stage**  
+`Topic Selected → MVP / User Flow / Architecture Design`
+
+- 핵심 방향: 변경 전후 차이 추적 → 기존 판단·서류 영향 확인 → 재검증 → 근거 제시
+- 협업 흐름: Figma → Jira → Branch → Pull Request → Review / Test → Merge
+- Main Repository: 준비 중
 
 ---
 
@@ -50,7 +55,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-> Branch, Commit, PR, CI 등 세부 개발 규칙은 각 프로젝트 Repository의 특성에 맞게 관리합니다.
+> Branch, Commit, PR, CI 등 세부 개발 규칙은 프로젝트 Repository의 Development Convention을 기준으로 관리합니다.
 
 ---
 
@@ -87,6 +92,7 @@
 ### 💻 우리는 이렇게 개발합니다
 
 - 개발 전 작업 내용을 팀과 공유하고 Jira에 반영합니다.
+- Jira Work Item Key를 Branch와 Pull Request의 공통 연결고리로 사용합니다.
 - 주요 변경사항은 Pull Request를 통해 공유하고 Review를 거칩니다.
 - 중요한 문제와 해결 과정은 Trouble Shooting으로 남깁니다.
 - 코드보다 팀 합의가 먼저 필요한 변경은 구현 전에 논의합니다.
