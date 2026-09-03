@@ -32,7 +32,7 @@
 
 **나라장터 변경공고 대응형 입찰 제출 검증기**
 
-- Repository: `bid-change-validator` — 생성 후 연결
+- Repository: [bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
 
 > 프로젝트별 역할, 기술 스택, 아키텍처, 개발 규칙과 상세 기록은 각 프로젝트 Repository에서 관리합니다.
 
