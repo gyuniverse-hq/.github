@@ -32,7 +32,19 @@
 
 **나라장터 변경공고 대응형 입찰 제출 검증기**
 
-- Repository: [bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
+**Main Repository**
+
+- [bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator) — 공통 기준, 통합 문서, 최종 통합 관리
+
+#### Parallel Development Workspaces
+
+| Area | Repository | Owners | Scope |
+| --- | --- | --- | --- |
+| 🎨 Frontend | [bid-change-validator-frontend](https://github.com/gyuniverse-hq/bid-change-validator-frontend) | 황수빈 · 이홍규 | 화면설계 반영, UI/UX, Frontend 구현 |
+| ⚙️ Backend / Data | [bid-change-validator-backend](https://github.com/gyuniverse-hq/bid-change-validator-backend) | 전진환 · 정예린 | API, DB, 나라장터 실제 데이터 연결 |
+| 🧠 LLM / RAG | [bid-change-validator-llm-rag](https://github.com/gyuniverse-hq/bid-change-validator-llm-rag) | 김재현 · 이홍규 | 문서 분석, RAG, 자격판정, 근거 인용, Guardrail/Eval |
+
+> 초기 병렬 개발은 영역별 Repository에서 진행하고, 공통 기준과 최종 통합은 `bid-change-validator`를 중심으로 관리합니다.
 
 > 프로젝트별 역할, 기술 스택, 아키텍처와 상세 구현 기록은 각 프로젝트 Repository에서 관리합니다.
 
