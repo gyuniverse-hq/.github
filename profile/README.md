@@ -6,8 +6,6 @@
 
 아이디어를 함께 실험하고 프로젝트로 만들어가는 팀 개발 공간입니다.
 
-<img src="https://avatars.githubusercontent.com/u/322421387?v=4" width="150" alt="Gyuniverse" />
-
 </div>
 
 ---
