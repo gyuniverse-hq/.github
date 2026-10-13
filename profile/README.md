@@ -38,7 +38,7 @@ AI 기반 서비스를 함께 기획하고 개발하는 최종 프로젝트입�
 
 **나라장터 변경공고 대응형 입찰 제출 검증기** · [Main Repository : bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
 
-<sub>👥 Crew · 김재현 · 이홍규 · 전진환 · 정예린 · 황수빈</sub>
+#### 👥 Crew · 김재현 · 이홍규 · 전진환 · 정예린 · 황수빈
 
 ---
 
