@@ -2,49 +2,43 @@
 
 # 🌌 GYUNIVERSE
 
-**A universe for building, experimenting, and collaborating.**
+**Build · Explore · Collaborate**
 
-아이디어를 함께 실험하고 프로젝트로 만들어가는 팀 개발 공간입니다.
+아이디어를 함께 실험하고, 실제 서비스로 구현해 나가는 개발 협업 공간입니다.
 
 </div>
 
 ---
 
-## 👥 Crew
+## 🚀 Current Project
+
+### SKN34 Final Project · 2026
+
+AI 기반 서비스를 함께 기획하고 개발하는 최종 프로젝트입니다.
+
+> 프로젝트 주제, 담당 역할, 기술 스택은 팀 논의로 확정한 후 업데이트합니다.
+
+#### 👥 Crew
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>김재현</b></td>
+    <td align="center" width="140"><b>김대호</b></td>
+    <td align="center" width="140"><b>김현지</b></td>
     <td align="center" width="140"><b>이홍규</b></td>
-    <td align="center" width="140"><b>전진환</b></td>
-    <td align="center" width="140"><b>정예린</b></td>
-    <td align="center" width="140"><b>황수빈</b></td>
+    <td align="center" width="140"><b>황호순</b></td>
+    <td align="center" width="140"><b>전진영</b></td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Projects
+## 📂 Project Archive
 
-### SKN34 3rd Project
+### SKN34 3rd Project · 2026
 
-**나라장터 변경공고 대응형 입찰 제출 검증기**
+**나라장터 변경공고 대응형 입찰 제출 검증기** · [Main Repository : bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
 
-**Main Repository**
-
-- [bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator) — 공통 기준, 통합 문서, 최종 통합 관리
-
-#### Parallel Development Workspaces
-
-| Area | Repository | Owners | Scope |
-| --- | --- | --- | --- |
-| 🎨 Frontend | [bid-change-validator-frontend](https://github.com/gyuniverse-hq/bid-change-validator-frontend) | 황수빈 · 이홍규 | 화면설계 반영, UI/UX, Frontend 구현 |
-| ⚙️ Backend / Data | [bid-change-validator-backend](https://github.com/gyuniverse-hq/bid-change-validator-backend) | 전진환 · 정예린 | API, DB, 나라장터 실제 데이터 연결 |
-| 🧠 LLM / RAG | [bid-change-validator-llm-rag](https://github.com/gyuniverse-hq/bid-change-validator-llm-rag) | 김재현 · 이홍규 | 문서 분석, RAG, 자격판정, 근거 인용, Guardrail/Eval |
-
-> 초기 병렬 개발은 영역별 Repository에서 진행하고, 공통 기준과 최종 통합은 `bid-change-validator`를 중심으로 관리합니다.
-
-> 프로젝트별 역할, 기술 스택, 아키텍처와 상세 구현 기록은 각 프로젝트 Repository에서 관리합니다.
+<sub>👥 Crew · 김재현 · 이홍규 · 전진환 · 정예린 · 황수빈</sub>
 
 ---
 
