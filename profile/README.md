@@ -36,18 +36,9 @@ AI 기반 서비스를 함께 기획하고 개발하는 최종 프로젝트입�
 
 ### SKN34 3rd Project · 2026
 
-**나라장터 변경공고 대응형 입찰 제출 검증기** · [Main Repository](https://github.com/gyuniverse-hq/bid-change-validator)
+**나라장터 변경공고 대응형 입찰 제출 검증기** · [Main Repository : bid-change-validator](https://github.com/gyuniverse-hq/bid-change-validator)
 
 <sub>👥 Crew · 김재현 · 이홍규 · 전진환 · 정예린 · 황수빈</sub>
-
-<details>
-<summary>관련 개발 저장소 보기</summary>
-
-- 🎨 [Frontend](https://github.com/gyuniverse-hq/bid-change-validator-frontend)
-- ⚙️ [Backend / Data](https://github.com/gyuniverse-hq/bid-change-validator-backend)
-- 🧠 [LLM / RAG](https://github.com/gyuniverse-hq/bid-change-validator-llm-rag)
-
-</details>
 
 ---
 
